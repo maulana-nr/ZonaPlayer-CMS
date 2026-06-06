@@ -1,4 +1,5 @@
 <?php
+
 require 'admin/function.php';
 ?>
 
