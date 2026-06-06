@@ -70,23 +70,33 @@ Project ini dikembangkan sebagai tugas Ujian Akhir Semester (UAS) Mata Kuliah Pe
 ZonaPlayer-CMS/
 │
 ├── admin/
-│   ├── artikel/
-│   ├── kategori/
-│   ├── penulis/
-│   └── index.php
+│   ├── artikel.php
+│   ├── kategori.php
+│   ├── penulis.php
+│   ├── login.php
+│   ├── logout.php
+│   ├── ceklogin.php
+│   ├── ceksession.php
+│   ├── function.php
+│   ├── index.php
+│   │
+│   ├── css/
+│   ├── js/
+│   ├── assets/
+│   └── gambar/
 │
 ├── assets/
 ├── css/
 ├── js/
-│
+├── database/
+│   
 ├── index.php
 ├── artikel.php
 ├── detail.php
 ├── kategori.php
 ├── cari.php
-├── tentang.php
-├── kontak.php
 ├── function.php
+│
 └── README.md
 ```
 
